@@ -147,6 +147,9 @@ h6 {
   letter-spacing: 1px;
 }
 
+section {
+    padding: 0px;
+}
 
 div.sectiontitle {
     background-color: white;
@@ -283,6 +286,14 @@ button.btn.btn-outline.btn-xl.calltoaction.submit {
     color: #b1b3b0;
 }
 
+#repondezsilvousplait{
+    text-shadow: 0 0 20px black;
+}
+
+.title {
+    color: white;
+    text-shadow: 0 0 20px #333;
+}
 
 /* END OF RSVP section styling */
 
@@ -366,7 +377,28 @@ section.download {
     position: relative;
 }
 
-/* Staying there styling */
+p.accomm_description, span.mapdetail {
+    margin-bottom: 1px;
+    -webkit-font-smoothing: antialiased;
+}
+
+h3>a{
+    color: #E39B9C;
+}
+
+h3>a:hover, h3>a.focus, h3>a.active{
+    color: #E39B9C;
+}
+
+.col-md-4.portfolio-item {
+    margin-bottom: 30px;
+}
+
+section#stayingthere{
+    padding-top: 30px;
+}
+/*End of staying there*/
+
 /* Get in touch styling */
 section.contact {
     background-color: #F4C4C0;
@@ -412,39 +444,7 @@ footer {
 }
 
 /*End of footer*/
-section {
-    padding: 0px;
-}
 
 
-/*Staying there*/
-p.accomm_description, span.mapdetail {
-    margin-bottom: 1px;
-    -webkit-font-smoothing: antialiased;
-}
 
-h3>a{
-    color: #E39B9C;
-}
 
-h3>a:hover, h3>a.focus, h3>a.active{
-    color: #E39B9C;
-}
-
-.col-md-4.portfolio-item {
-    margin-bottom: 30px;
-}
-
-section#stayingthere{
-    padding-top: 30px;
-}
-/*End of staying there*/
-
-#repondezsilvousplait{
-    text-shadow: 0 0 20px black;
-}
-
-.title {
-    color: white;
-    text-shadow: 0 0 20px #333;
-}
