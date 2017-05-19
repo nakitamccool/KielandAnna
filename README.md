@@ -8,9 +8,9 @@ This is a ‘digital invite’ I have developed for my brother and his fiance wh
 
 ## Demo
 
-A demo of this site is available[here](https://nakitamccool.github.io/KielandAnna/)
+A demo of this site is available [here](https://nakitamccool.github.io/KielandAnna/)
 
-This app is hosted by[Github Pages](https://pages.github.com/) a static site hosting service which supports client-side code. It does not support server-side code in languages like PHP or Python.
+This app is hosted by Github Pages, a static site hosting service which supports client-side code. It does not support server-side code in languages like PHP or Python.
 
 
 ## Getting started / Deployment
@@ -43,9 +43,9 @@ Manual testing was undertaken for this application and satisfactorily passed. A 
 
 ## Acknowledgments
 
-* Template by[Bootstrap](https://startbootstrap.com/)
-* Inspiration for the assorted polaroids in the ‘The Big Day’ section came from a tutorial by[Mary Lou](https://tympanus.net/codrops/author/crnacura/) on codrops
-* Calendar icon by[IconArchive](http://www.iconarchive.com/)
+* Template by [Bootstrap](https://startbootstrap.com/)
+* Inspiration for the assorted polaroids in the ‘The Big Day’ section came from a tutorial by [Mary Lou](https://tympanus.net/codrops/author/crnacura/) on codrops
+* Calendar icon by [IconArchive](http://www.iconarchive.com/)
 * Custom map-markers by Brian Lynch
 
 
