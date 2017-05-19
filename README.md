@@ -8,7 +8,7 @@ This is a ‘digital invite’ I have developed for my brother and his fiance wh
 
 ## Demo
 
-A demo of this site is available [here](https://nakitamccool.github.io/KielandAnna/)
+A demo of this site is available [here](https://nakitamccool.github.io/KielandAnna/).
 
 This app is hosted by Github Pages, a static site hosting service which supports client-side code. It does not support server-side code in languages like PHP or Python.
 
