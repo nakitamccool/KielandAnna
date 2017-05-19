@@ -1,4 +1,4 @@
-# Kiel and Anna | 18.07.2019 
+# Kiel and Anna | Digital Wedding Invite 
 
 This is a ‘digital invite’ I have developed for my brother and his fiance who are getting married in 2019. It is a front-end website that provides invited guests with:
 1.	Details of what to expect on the big day
