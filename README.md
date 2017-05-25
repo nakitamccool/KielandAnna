@@ -28,7 +28,7 @@ This app is hosted by Github Pages, a static site hosting service which supports
 Details of the UX design and research process undertaken as part of this project is available in the 
 projectdocumentation folder. This document outlines how I approached the design of this site through the 
 5 layers (strategy, scope, structure, skeleton and surface) and describes 
-my ideas for further development of this site (beyond the scope of this site as a Stream 3 project).
+my ideas for further development of this site (beyond the scope of this site as a Stream 1 project).
 
 ## Testing
 
